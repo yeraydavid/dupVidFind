@@ -1,0 +1,2 @@
+# dupVidFind
+Duplicate Video Finder
